@@ -28,6 +28,7 @@ jobs:
             index.ts
             package.json
             pnpm-lock.yaml
+            pnpm-workspace.yaml
             tsconfig.json
             README.md
             commit.bash
