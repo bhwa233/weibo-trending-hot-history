@@ -13,7 +13,7 @@
     "dayjs": "^1.11.11",
     "decimal.js": "^10.4.3",
     "lodash": "^4.17.21",
-    "playwright": "^1.55.0",
+    "playwright": "^1.65.0",
     "vite-node": "^1.6.0"
   },
   "devDependencies": {
